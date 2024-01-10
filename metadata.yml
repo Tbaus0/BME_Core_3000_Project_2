@@ -1,0 +1,14 @@
+---
+:id: 210892396
+:submitters:
+- :name: Jackson Swalley
+  :email: jackson.swalley@uvm.edu
+- :name: Thomas Bausman
+  :email: thomas.bausman@uvm.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-09 01:57:48.742887000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-08 17:57:48.742887000 Z
+:status: processed
+:score: 21.75
